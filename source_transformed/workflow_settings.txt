@@ -1,4 +1,4 @@
 defaultProject: data-warehouse-442413
 defaultDataset: source
-defaultAssertionDataset: source_assertions
+defaultAssertionDataset: source_transformed_assertions
 dataformCoreVersion: 3.0.26
